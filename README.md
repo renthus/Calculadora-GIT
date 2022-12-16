@@ -16,7 +16,7 @@
 
 ## Descrição do projeto 
 
-Projeto prático do curso de Git e Github da ByLearn, com a finalidade de entender melhor sobre o Git e Branchs. Terá 04 features em branchs diferentes e que se unirá a branch develop.
+Projeto prático do curso de `Git` e `GitHub` da ByLearn, com a finalidade de compreender melhor sobre as funcionalidades desta plataforma de hospedagem de código-fonte e arquivos com controle de versão.
 
 ## Funcionalidades
 
