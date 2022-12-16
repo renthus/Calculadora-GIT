@@ -20,13 +20,13 @@ Projeto prático do curso de Git e Github da ByLearn, com a finalidade de entend
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Criação das branchs: develop, adicao, subtracao, multiplicacao e divisao.
+:heavy_check_mark: `Funcionalidade 1:` Criação de diversas `branchs` para features do projeto e realização de `merge` para a branch develop.
 
-:heavy_check_mark: `Funcionalidade 2:` Criação de `Tag`.
+:heavy_check_mark: `Funcionalidade 2:` Criação de `Tags` considerando o Versionamento Semântico 2.0.0.
 
-:heavy_check_mark: `Funcionalidade 3:` Criação de `Release`.
+:heavy_check_mark: `Funcionalidade 3:` Criação de `Releases` para identificação das versões do projeto.
 
-:heavy_check_mark: `Funcionalidade 4:` Adicionando pessoas ao projeto.
+:heavy_check_mark: `Funcionalidade 4:` `Inclusão de pessoas` ao projeto para suas diversas finalidades.
 
 ## Tecnologias utilizadas
 <p>
