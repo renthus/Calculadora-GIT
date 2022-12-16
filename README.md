@@ -22,7 +22,7 @@ Projeto prático do curso de Git e Github da ByLearn, com a finalidade de entend
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:`
+:heavy_check_mark: `Funcionalidade 1:` Criação das branchs: develop, adicao, subtracao, multiplicacao e divisao.
 
 ## Tecnologias utilizadas
 <p>
