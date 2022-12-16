@@ -26,6 +26,8 @@ Projeto prático do curso de Git e Github da ByLearn, com a finalidade de entend
 
 :heavy_check_mark: `Funcionalidade 3:` Criação de `Release`.
 
+:heavy_check_mark: `Funcionalidade 4:` Adicionando pessoas ao projeto.
+
 ## Tecnologias utilizadas
 <p>
 <img align="center" alt="Renato-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
