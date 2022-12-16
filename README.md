@@ -28,6 +28,8 @@ Projeto prático do curso de `Git` e `GitHub` da ByLearn, com a finalidade de co
 
 :heavy_check_mark: `Funcionalidade 4:` `Inclusão de pessoas` ao projeto para suas diversas finalidades.
 
+:heavy_check_mark: `Funcionalidade 5:` Criação de novas branchs para features do projeto com `Pull Requests`.
+
 ## Tecnologias utilizadas
 <p>
 <img align="center" alt="Renato-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
