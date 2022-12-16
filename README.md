@@ -30,6 +30,8 @@ Projeto prático do curso de `Git` e `GitHub` da ByLearn, com a finalidade de co
 
 :heavy_check_mark: `Funcionalidade 5:` Criação de novas branchs para features do projeto com `Pull Requests`.
 
+:heavy_check_mark: `Funcionalidade 6:` Criação de Pull Requests para realização da `Code Review`.
+
 ## Tecnologias utilizadas
 <p>
 <img align="center" alt="Renato-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
