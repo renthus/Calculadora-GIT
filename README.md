@@ -22,6 +22,8 @@ Projeto prático do curso de Git e Github da ByLearn, com a finalidade de entend
 
 :heavy_check_mark: `Funcionalidade 1:` Criação das branchs: develop, adicao, subtracao, multiplicacao e divisao.
 
+:heavy_check_mark: `Funcionalidade 2:` Criação de `Tag`.
+
 ## Tecnologias utilizadas
 <p>
 <img align="center" alt="Renato-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
